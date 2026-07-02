@@ -52,7 +52,7 @@ button {
 nav {
     position: relative;
     overflow: hidden;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../ASSET/images/Background-1.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../ASSET/Images/Background-1.png');
     height: 500px;
     width: 100%;
     background-size: cover;
@@ -178,7 +178,7 @@ nav a {
 .about{
   position: relative;
   overflow: hidden;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../ASSET/images/Background-3.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../ASSET/Images/Background-3.jpeg');
   height: 500px;
   width: 100%;
   background-size: cover;
@@ -297,7 +297,7 @@ nav a {
   overflow:hidden;
   background-image:
   linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
-  url('../ASSET/images/Background-2.jpeg');
+  url('../ASSET/Images/Background-2.jpeg');
 
   height:350px;
   width:100%;
